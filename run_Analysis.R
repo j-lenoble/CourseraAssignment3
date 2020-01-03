@@ -1,4 +1,4 @@
-###Coursera Module 3 Getting and Shaping Data
+###Coursera Module 3 Getting and Cleaning Data
 ##Peer Review Assignment
 #Created January 2, 2019 by JLN
 
